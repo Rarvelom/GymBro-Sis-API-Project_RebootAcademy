@@ -1,0 +1,5 @@
+fastapi==0.109.1
+pymongo==4.6.2
+uvicorn==0.27.0
+pydantic==2.6.4
+pymongo
